@@ -1,0 +1,26 @@
+h1{
+    padding-bottom: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.form{
+    width: 75vh;
+    color: rgb(28, 27, 27);
+    border-radius: 25px;
+    padding: 50px;
+    background-color: #F1EAFF;
+}
+.form-fl input{
+    height: 60px;
+}
+.check{
+    width: 121px;
+}
+.page{
+    background-color:#89A8B2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+/* firstpage */
